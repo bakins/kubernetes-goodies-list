@@ -1,6 +1,6 @@
-# kubernetes-addons
+# Kubernetes Goodies
 
-List of Interesting Kubernetes add-ons, etc. If you'd like to add something, including new categories, please open a PR.
+List of Interesting Kubernetes add-ons, helpers, docs, etc. If you'd like to add something, including new categories, please open a PR.
 
 ## Controllers
 
@@ -15,9 +15,12 @@ Custom controllers/operators
 
 * [fluent-plugin-prometheus](https://github.com/kazegusuri/fluent-plugin-prometheus) - collects metrics and exposes for Prometheus. (I use with fluentd daemonset).
 
-## PaaS/Frameworks
+## Tutorials/Docs
 
+## PaaS/Frameworks
 
 ## Serverless/FaaS
 
 Functions as a Service
+
+## Providers/Consulting
