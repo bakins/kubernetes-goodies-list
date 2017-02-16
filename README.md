@@ -10,6 +10,7 @@ Custom controllers/operators
 * [etcd operator](https://github.com/coreos/etcd-operator) - creates/configures/manages etcd clusters atop Kubernetes
 * [mate](https://github.com/zalando-incubator/mate) - manages AWS Route53 and Google CloudDNS records for your Kubernetes services and ingresses.
 * [prometheus operator](https://github.com/coreos/prometheus-operator) - creates/configures/manages Prometheus clusters atop Kubernetes
+* [list of Third Party Resources](https://gist.github.com/philips/a97a143546c87b86b870a82a753db14c)
 
 ## Helpers
 
